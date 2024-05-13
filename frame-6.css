@@ -1,0 +1,673 @@
+.component-child,
+.component-inner,
+.component-item {
+  position: absolute;
+  top: 52px;
+  left: 72px;
+  background: linear-gradient(180deg, #f01c1c, #101010 74.5%);
+  width: 205px;
+  height: 310px;
+}
+.component-inner,
+.component-item {
+  top: 432px;
+  left: 1048px;
+}
+.component-inner {
+  left: 811px;
+}
+.component-child1,
+.component-child2,
+.component-child3,
+.component-child4,
+.component-child5,
+.component-child6,
+.component-child7 {
+  position: absolute;
+  top: 432px;
+  left: 557px;
+  background: linear-gradient(180deg, #f01c1c, #101010 74.5%);
+  width: 205px;
+  height: 310px;
+}
+.component-child2,
+.component-child3,
+.component-child4,
+.component-child5,
+.component-child6,
+.component-child7 {
+  left: 72px;
+}
+.component-child3,
+.component-child4,
+.component-child5,
+.component-child6,
+.component-child7 {
+  left: 320px;
+}
+.component-child4,
+.component-child5,
+.component-child6,
+.component-child7 {
+  top: 52px;
+  left: 1048px;
+}
+.component-child5,
+.component-child6,
+.component-child7 {
+  left: 811px;
+}
+.component-child6,
+.component-child7 {
+  left: 557px;
+}
+.component-child7 {
+  left: 320px;
+}
+.rs-180001,
+.rs-22000,
+.rs-220001,
+.rs-28000,
+.rs-280001 {
+  position: absolute;
+  top: 13px;
+  left: 143px;
+  background: linear-gradient(180deg, #ec0a0a, #d9c3c3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.rs-22000,
+.rs-220001,
+.rs-28000,
+.rs-280001 {
+  left: 398px;
+}
+.rs-22000,
+.rs-220001,
+.rs-280001 {
+  top: 10px;
+  left: 634px;
+}
+.rs-220001,
+.rs-280001 {
+  top: 9px;
+  left: 876px;
+}
+.rs-280001 {
+  top: 13px;
+  left: 1115px;
+}
+.icon2,
+.icon3,
+.icon4,
+.icon5,
+.icon6 {
+  position: absolute;
+  top: 77px;
+  left: 76px;
+  width: 197px;
+  height: 193px;
+  object-fit: cover;
+}
+.icon3,
+.icon4,
+.icon5,
+.icon6 {
+  top: 73px;
+  left: 1048px;
+  width: 201px;
+  height: 195px;
+}
+.icon4,
+.icon5,
+.icon6 {
+  left: 572px;
+  width: 187px;
+  height: 197px;
+}
+.icon5,
+.icon6 {
+  top: 67px;
+  left: 323px;
+  width: 202px;
+  height: 203px;
+}
+.icon6 {
+  top: 77px;
+  left: 817px;
+  width: 193px;
+  height: 162px;
+}
+.blank-line5 {
+  color: inherit;
+}
+.blank-line4 {
+  margin: 0;
+}
+.blank-line7 {
+  color: inherit;
+}
+.blank-line6 {
+  margin: 0;
+}
+.msi-gaming-geforce {
+  color: inherit;
+}
+.msi-gaming-geforce-gtx-1060-6g {
+  margin: 0;
+}
+.msi-gaming-geforce-container {
+  position: absolute;
+  top: 281px;
+  left: 110px;
+  font-size: var(--font-size-xs);
+  text-decoration: underline;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 129px;
+  height: 67px;
+}
+.blank-line9 {
+  color: inherit;
+}
+.blank-line8 {
+  margin: 0;
+}
+.blank-line11 {
+  color: inherit;
+}
+.blank-line10 {
+  margin: 0;
+}
+.blank-line13 {
+  color: inherit;
+}
+.blank-line12 {
+  margin: 0;
+}
+.xfx-merc-319 {
+  color: inherit;
+}
+.xfx-merc-319-radeon-rx-7800-x {
+  margin: 0;
+}
+.asus-rog-strix,
+.evga-geforce-rtx,
+.xfx-merc-319-container {
+  position: absolute;
+  top: 266px;
+  left: 352px;
+  font-size: var(--font-size-xs);
+  text-decoration: underline;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 141px;
+  height: 77px;
+}
+.asus-rog-strix,
+.evga-geforce-rtx {
+  top: 313px;
+  left: 575px;
+  color: inherit;
+  width: 153px;
+  height: 25px;
+}
+.asus-rog-strix {
+  top: 311px;
+  left: 845px;
+  width: 137px;
+  height: 26px;
+}
+.blank-line14,
+.msi-rtx-4060 {
+  margin: 0;
+}
+.msi-rtx-4060-container {
+  position: absolute;
+  top: 297px;
+  left: 1080px;
+  font-size: var(--font-size-xs);
+  text-decoration: underline;
+  font-family: var(--font-inter);
+  color: inherit;
+  display: inline-block;
+  width: 146px;
+  height: 38px;
+}
+.rs-120001,
+.rs-146000,
+.rs-175000,
+.rs-280002,
+.rs-32000,
+.rs-37000,
+.rs-460001,
+.rs-55000,
+.rs-95000,
+.rs10000 {
+  position: absolute;
+  top: 394px;
+  left: 143px;
+  background: linear-gradient(180deg, #ec0a0a, #d9c3c3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.rs-120001,
+.rs-146000,
+.rs-175000,
+.rs-280002,
+.rs-37000,
+.rs-460001,
+.rs-55000,
+.rs-95000,
+.rs10000 {
+  top: 774px;
+}
+.rs-120001,
+.rs-146000,
+.rs-175000,
+.rs-280002,
+.rs-37000,
+.rs-460001,
+.rs-55000,
+.rs-95000 {
+  left: 1124px;
+}
+.rs-120001,
+.rs-146000,
+.rs-175000,
+.rs-280002,
+.rs-460001,
+.rs-55000,
+.rs-95000 {
+  left: 886px;
+}
+.rs-120001,
+.rs-146000,
+.rs-175000,
+.rs-460001,
+.rs-55000,
+.rs-95000 {
+  left: 635px;
+}
+.rs-120001,
+.rs-146000,
+.rs-175000,
+.rs-55000,
+.rs-95000 {
+  left: 387px;
+}
+.rs-146000,
+.rs-175000,
+.rs-55000,
+.rs-95000 {
+  top: 383px;
+  left: 1130px;
+}
+.rs-146000,
+.rs-55000,
+.rs-95000 {
+  left: 882px;
+}
+.rs-55000,
+.rs-95000 {
+  left: 620px;
+}
+.rs-55000 {
+  top: 389px;
+  left: 391px;
+}
+.icon7 {
+  position: absolute;
+  top: 426px;
+  left: 76px;
+  width: 187px;
+  height: 227px;
+  object-fit: cover;
+}
+.icon10,
+.icon8,
+.icon9,
+.rq593d92rqgykht-setting-xxx-0-icon {
+  position: absolute;
+  top: 440px;
+  left: 339px;
+  width: 167px;
+  height: 197px;
+  object-fit: cover;
+}
+.icon10,
+.icon9,
+.rq593d92rqgykht-setting-xxx-0-icon {
+  left: 817px;
+  width: 184px;
+}
+.icon10,
+.rq593d92rqgykht-setting-xxx-0-icon {
+  left: 562px;
+  width: 197px;
+}
+.icon10 {
+  top: 445px;
+  left: 1067px;
+  width: 177px;
+  height: 192px;
+}
+.boost-cheetah-pro,
+.boost-jaguar-black,
+.boost-unicorn {
+  position: absolute;
+  top: 699px;
+  left: 80px;
+  text-decoration: underline;
+  color: inherit;
+}
+.boost-jaguar-black,
+.boost-unicorn {
+  left: 349px;
+}
+.boost-unicorn {
+  top: 698px;
+  left: 856px;
+}
+.blank-line15,
+.silverstone-fara-512z {
+  margin: 0;
+}
+.silverstone-fara-512z-container {
+  position: absolute;
+  top: 678px;
+  left: 1072px;
+  text-decoration: underline;
+  color: inherit;
+}
+.asus-tuf-gaming,
+.contact-us {
+  position: absolute;
+  display: inline-block;
+}
+.asus-tuf-gaming {
+  top: 682px;
+  left: 564px;
+  text-decoration: underline;
+  color: inherit;
+  width: 203px;
+  height: 46px;
+}
+.contact-us {
+  top: 862px;
+  left: 496px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-red-200);
+  width: 286px;
+  height: 90px;
+}
+.black-electronics-gallary-1-op-icon,
+.black-electronics-gallary-2-op-icon {
+  position: absolute;
+  top: 1046px;
+  left: 0;
+  width: 480px;
+  height: 339px;
+  object-fit: cover;
+}
+.black-electronics-gallary-2-op-icon {
+  left: 480px;
+}
+.black-electronics-gallary-3-op-icon,
+.black-electronics-gallary-4-op-icon {
+  position: absolute;
+  top: 1046px;
+  left: 960px;
+  width: 406px;
+  height: 339px;
+  object-fit: cover;
+}
+.black-electronics-gallary-4-op-icon {
+  top: 1385px;
+  left: 0;
+  width: 480px;
+}
+.black-electronics-gallary-5-op-icon,
+.black-electronics-gallary-6-op-icon {
+  position: absolute;
+  top: 1385px;
+  left: 480px;
+  width: 480px;
+  height: 339px;
+  object-fit: cover;
+}
+.black-electronics-gallary-6-op-icon {
+  top: 1724px;
+  width: 468px;
+  height: 331px;
+}
+.black-electronics-gallary-7-op-icon,
+.black-electronics-gallary-8-op-icon {
+  position: absolute;
+  top: 1717px;
+  left: 0;
+  width: 480px;
+  height: 339px;
+  object-fit: cover;
+}
+.black-electronics-gallary-8-op-icon {
+  top: 1385px;
+  left: 960px;
+  width: 408px;
+}
+.black-electronics-testimon-2-o-icon,
+.fgddfgdgdf-2-icon {
+  position: absolute;
+  top: 1726px;
+  left: 948px;
+  width: 420px;
+  height: 329px;
+  object-fit: cover;
+}
+.fgddfgdgdf-2-icon {
+  top: 2131px;
+  left: 99px;
+  width: 365px;
+  height: 339px;
+}
+.corporate,
+.products1,
+.retail-outlet {
+  position: absolute;
+  top: 2160px;
+  left: 604px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-inknut-antiqua);
+  background: linear-gradient(90deg, #276aeb, #999);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.corporate,
+.products1 {
+  top: 2595px;
+  left: 137px;
+  display: inline-block;
+  width: 269px;
+}
+.corporate {
+  left: 610px;
+  width: 302px;
+}
+.p,
+.shop-b-14,
+.syedfahad99outlookcom {
+  margin: 0;
+}
+.shop-b-14-container {
+  position: absolute;
+  top: 2253px;
+  left: 602px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inknut-antiqua);
+  display: inline-block;
+  width: 504px;
+  height: 150px;
+}
+.icon-1-1,
+.icon-2-1,
+.icon-3-1 {
+  position: absolute;
+  top: 2261px;
+  left: 560px;
+  width: 42px;
+  height: 40px;
+  object-fit: cover;
+}
+.icon-2-1,
+.icon-3-1 {
+  top: 2422px;
+  width: 40px;
+  height: 42px;
+}
+.icon-3-1 {
+  top: 2470px;
+  left: 554px;
+  width: 46px;
+}
+.pre-build-pc1 {
+  color: inherit;
+}
+.pre-build-pc {
+  margin-bottom: 0;
+}
+.laptops1 {
+  color: inherit;
+}
+.laptops {
+  margin-bottom: 0;
+}
+.casings1 {
+  color: inherit;
+}
+.casings {
+  margin-bottom: 0;
+}
+.graphic-cards1 {
+  color: inherit;
+}
+.graphic-cards {
+  margin-bottom: 0;
+}
+.monitors1 {
+  color: inherit;
+}
+.monitors {
+  margin-bottom: 0;
+}
+.network-products1 {
+  color: inherit;
+}
+.network-products {
+  margin-bottom: 0;
+}
+.memory-modules {
+  color: inherit;
+}
+.pre-build-pc-laptops-casings-g {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.pre-build-pc-container {
+  position: absolute;
+  top: 2688px;
+  left: 140px;
+  font-size: var(--font-size-xl);
+  text-decoration: underline;
+  font-family: var(--font-inknut-antiqua);
+}
+.about-us1 {
+  color: inherit;
+}
+.about-us {
+  margin-bottom: 0;
+}
+.contact-us2 {
+  color: inherit;
+}
+.contact-us1 {
+  margin-bottom: 0;
+}
+.faqs1 {
+  color: inherit;
+}
+.faqs {
+  margin-bottom: 0;
+}
+.policies1 {
+  color: inherit;
+}
+.policies {
+  margin-bottom: 0;
+}
+.warranty-claims1 {
+  color: inherit;
+}
+.warranty-claims {
+  margin-bottom: 0;
+}
+.track-order1 {
+  color: inherit;
+}
+.track-order {
+  margin-bottom: 0;
+}
+.reviews {
+  color: inherit;
+}
+.about-us-contact-us-faqs-polic {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.about-us-contact-container {
+  position: absolute;
+  top: 2696px;
+  left: 663px;
+  font-size: var(--font-size-xl);
+  text-decoration: underline;
+  font-family: var(--font-inknut-antiqua);
+}
+.component-child8 {
+  position: absolute;
+  top: 3194px;
+  left: 0;
+  background: linear-gradient(90deg, #d9d9d9 34.5%, #b11d1d 62%);
+  width: 1368px;
+  height: 76px;
+}
+.copyrightfahad-pc-store {
+  position: absolute;
+  top: 3218px;
+  left: 120px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jockey-one);
+  color: var(--color-black);
+}
+.ijhkjjh-1-icon {
+  position: absolute;
+  top: 3210px;
+  left: 952px;
+  width: 281px;
+  height: 44px;
+  object-fit: cover;
+}
+.rectangle-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  height: 3270px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-kokoro);
+}

@@ -1,0 +1,367 @@
+.play-like-the {
+  margin: 0;
+}
+.blank-line2 {
+  text-decoration: underline;
+}
+.blank-line1 {
+  color: inherit;
+}
+.blank-line {
+  margin: 0;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-kokoro);
+}
+.play-like-the-container,
+.ready-pc-builds {
+  position: absolute;
+  font-size: var(--font-size-13xl);
+}
+.play-like-the-container {
+  top: 43px;
+  left: 567.1px;
+  display: inline-block;
+  width: 139px;
+  height: 102px;
+  transform: rotate(0.1deg);
+  transform-origin: 0 0;
+  font-family: var(--font-goblin-one);
+}
+.ready-pc-builds {
+  top: 236px;
+  left: 489px;
+  font-family: var(--font-irish-grover);
+  background: linear-gradient(90deg, #2a3ace, #999);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.build-your-ideal-pc-no,
+.gaming-pcs-made-simple-we-bui {
+  position: absolute;
+  top: 314px;
+  left: 493px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inknut-antiqua);
+  display: inline-block;
+  width: 268px;
+  height: 224px;
+}
+.build-your-ideal-pc-no {
+  top: 900px;
+  left: 110px;
+  width: 386px;
+}
+.gear-up,
+.throw-down {
+  margin: 0;
+}
+.gear-up-throw-container {
+  position: absolute;
+  top: 688px;
+  left: 107px;
+  font-size: 40px;
+  font-family: var(--font-inknut-antiqua);
+  background: linear-gradient(180deg, #3d4ac5, #999);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 393px;
+}
+.screenshot-341-1 {
+  position: absolute;
+  top: 714px;
+  left: 649px;
+  width: 638px;
+  height: 362px;
+  object-fit: cover;
+}
+.products {
+  position: absolute;
+  top: 1138px;
+  left: 496px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-red-200);
+  display: inline-block;
+  width: 258px;
+  height: 90px;
+}
+.frame-child,
+.frame-child1,
+.frame-child2,
+.frame-inner,
+.frame-item,
+.rectangle-div {
+  position: absolute;
+  top: 1271px;
+  left: 78px;
+  background: linear-gradient(180deg, #f01c1c, #101010 74.5%);
+  width: 205px;
+  height: 310px;
+}
+.frame-child1,
+.frame-child2,
+.frame-inner,
+.frame-item,
+.rectangle-div {
+  top: 1652px;
+  left: 73px;
+}
+.frame-child1,
+.frame-child2,
+.frame-inner,
+.rectangle-div {
+  left: 1047px;
+}
+.frame-child1,
+.frame-child2,
+.rectangle-div {
+  left: 806px;
+}
+.frame-child1,
+.frame-child2 {
+  left: 563px;
+}
+.frame-child2 {
+  left: 322px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 1272.5px;
+  left: 1045px;
+  width: 199px;
+  height: 310px;
+}
+.image-removebg-preview-49-1-icon {
+  position: absolute;
+  top: 1273px;
+  left: 83px;
+  width: 195px;
+  height: 195px;
+  object-fit: cover;
+}
+.image-removebg-preview-2023-11-icon {
+  position: absolute;
+  top: 1287px;
+  left: 1058px;
+  width: 177px;
+  height: 177px;
+  object-fit: cover;
+}
+.frame-child3,
+.frame-child4,
+.frame-child5 {
+  position: absolute;
+  top: 1271px;
+  left: 806px;
+  background: linear-gradient(180deg, #f01c1c, #101010 74.5%);
+  width: 202px;
+  height: 310px;
+}
+.frame-child4,
+.frame-child5 {
+  left: 569px;
+  width: 200px;
+}
+.frame-child5 {
+  left: 331px;
+  width: 194px;
+}
+.ghjkkhjkh-1-icon,
+.icon,
+.icon1 {
+  position: absolute;
+  top: 1270px;
+  left: 331px;
+  width: 196px;
+  height: 198px;
+  object-fit: cover;
+}
+.icon,
+.icon1 {
+  top: 1287px;
+  left: 577px;
+  width: 188px;
+  height: 181px;
+}
+.icon1 {
+  left: 824px;
+  width: 166px;
+  height: 166px;
+}
+.amd-ryzen-3,
+.intel-core-i5-12400f {
+  position: absolute;
+  top: 1519px;
+  left: 110px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 130px;
+  height: 46px;
+}
+.amd-ryzen-3 {
+  top: 1534px;
+  left: 1054px;
+  width: 204px;
+}
+.rs-12000 {
+  position: absolute;
+  top: 1613px;
+  left: 1120px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-kokoro);
+  background: linear-gradient(180deg, #ec0a0a, #d9c3c3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.blank-line3 {
+  margin: 0;
+}
+.intel-core-i9-14900k {
+  text-decoration: underline;
+}
+.intel-core-i9-14900k-new-gamin1 {
+  color: inherit;
+}
+.intel-core-i9-14900k-new-gamin {
+  margin: 0;
+}
+.intel-core-i9-14900k-container {
+  position: absolute;
+  top: 1497px;
+  left: 361px;
+  display: inline-block;
+  width: 139px;
+  height: 77px;
+}
+.rs-18000,
+.rs-193000,
+.rs-24000 {
+  position: absolute;
+  top: 1609px;
+  left: 408px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-kokoro);
+  background: linear-gradient(180deg, #ec0a0a, #d9c3c3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.rs-18000,
+.rs-24000 {
+  top: 1613px;
+  left: 648px;
+}
+.rs-24000 {
+  top: 1608px;
+  left: 886px;
+}
+.amd-ryzen-31,
+.amd-ryzen-5 {
+  position: absolute;
+  text-decoration: underline;
+  color: inherit;
+}
+.amd-ryzen-31 {
+  top: 1535px;
+  left: 586px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+}
+.amd-ryzen-5 {
+  top: 1536px;
+  left: 829px;
+}
+.image-removebg-preview-78-1-1-icon {
+  position: absolute;
+  top: 1662px;
+  left: 90px;
+  width: 171px;
+  height: 195px;
+  object-fit: cover;
+}
+.asus-a320m-e-box-1-icon,
+.fjghjgh-2-icon,
+.image-removebg-preview-81-1-1-icon {
+  position: absolute;
+  top: 1662px;
+  left: 336px;
+  width: 177px;
+  height: 189px;
+  object-fit: cover;
+}
+.asus-a320m-e-box-1-icon,
+.fjghjgh-2-icon {
+  left: 552px;
+  width: 221px;
+  height: 228px;
+}
+.fjghjgh-2-icon {
+  top: 1678px;
+  left: 820px;
+  width: 165px;
+  height: 142px;
+}
+.gigabyte-b450m-s2h {
+  position: absolute;
+  top: 1906px;
+  left: 101px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 145px;
+  height: 24px;
+}
+.asus-prime-b450m-k,
+.asus-prime-h510m-k,
+.gigabyte-b450m-gaming {
+  position: absolute;
+  top: 1910px;
+  left: 357px;
+  text-decoration: underline;
+  color: inherit;
+}
+.asus-prime-b450m-k,
+.gigabyte-b450m-gaming {
+  left: 594px;
+}
+.gigabyte-b450m-gaming {
+  top: 1907px;
+  left: 829px;
+}
+.image-removebg-preview-11-1-icon {
+  position: absolute;
+  top: 1681px;
+  left: 1059px;
+  width: 182px;
+  height: 152px;
+  object-fit: cover;
+}
+.gigabyte-b450m-ds3h {
+  position: absolute;
+  top: 1907px;
+  left: 1067px;
+  text-decoration: underline;
+  color: inherit;
+}
+.rs-46000 {
+  position: absolute;
+  top: 1610px;
+  left: 154px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-kokoro);
+  background: linear-gradient(180deg, #ec0a0a, #d9c3c3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.play-like-the-pros-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  height: 2248px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+  font-family: var(--font-kantumruy);
+}

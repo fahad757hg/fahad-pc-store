@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-kokoro: Kokoro;
+  --font-kantumruy: Kantumruy;
+  --font-inter: Inter;
+  --font-inknut-antiqua: "Inknut Antiqua";
+  --font-irish-grover: "Irish Grover";
+  --font-goblin-one: "Goblin One";
+  --font-jockey-one: "Jockey One";
+  --font-inder: Inder;
+  --font-kaushan-script: "Kaushan Script";
+  --font-kadwa: Kadwa;
+  --font-kaisei-tokumin: "Kaisei Tokumin";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-smi: 13px;
+  --font-size-xs: 12px;
+  --font-size-17xl: 36px;
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+  --font-size-xl: 20px;
+  --font-size-10xl: 29px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-red-100: #f70e0e;
+  --color-red-200: #da0f0f;
+  --color-cornflowerblue: #638bda;
+
+  /* Gaps */
+  --gap-42xl: 61px;
+  --gap-mini: 15px;
+  --gap-11xl: 30px;
+  --gap-7xl: 26px;
+  --gap-9xs: 4px;
+  --gap-10xs: 3px;
+  --gap-xs: 12px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-8xl: 27px;
+  --padding-21xl: 40px;
+  --padding-xl: 20px;
+  --padding-8xs: 5px;
+  --padding-9xs: 4px;
+  --padding-10xl: 29px;
+  --padding-7xl: 26px;
+  --padding-lg: 18px;
+  --padding-6xl: 25px;
+  --padding-2xl: 21px;
+  --padding-15xl: 34px;
+  --padding-mid: 17px;
+  --padding-xs: 12px;
+  --padding-3xs: 10px;
+  --padding-4xs: 9px;
+  --padding-43xl: 62px;
+  --padding-32xl: 51px;
+  --padding-5xl: 24px;
+  --padding-14xl: 33px;
+  --padding-5xs: 8px;
+  --padding-6xs: 7px;
+}
